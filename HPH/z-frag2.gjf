@@ -1,0 +1,14 @@
+%chk=z-frag2
+#p test hf/3-21g
+pop=full
+nosymm
+out=mat
+
+test
+
+ 0  2
+bq(frag=1)    0.0   0.0   0.0
+h(frag=2)     0.0   0.0   1.0
+
+z-frag2.mat
+

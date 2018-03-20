@@ -1,0 +1,12 @@
+%chk=z-frag1
+#p test hf/3-21g pop=full iop(1/33=3) nosymm
+out=mat
+
+test
+
+-1  2
+o(frag=1)     0.0   0.0   0.0
+bq(frag=2)    0.0   0.0   1.0
+
+z-frag1.mat
+
