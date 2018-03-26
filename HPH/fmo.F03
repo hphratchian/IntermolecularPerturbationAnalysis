@@ -213,7 +213,7 @@
       type(MQC_Variable)::atom2fragment,atom2bfFull,atom2bfFragment,  &
         bf2AtomFull,bf2AtomFragment,bfFull2FragmentMap
       type(MQC_Variable)::fullMoleculeSao,fullMoleculeFaoAlpha
-      type(MQC_Variable)::neAlphaFragment,neBetaFragment,nBasisFragment,  &
+      type(MQC_Variable)::neAlphaFragment,neBetaFragment,  &
         fragmentMatrixTemp,fragmentSaoZero,fragmentFaoAlphaZero
       type(MQC_Variable)::fragmentMatrixTemp,fragmentSaoZero,fragmentFaoAlphaZero
 !
