@@ -215,7 +215,6 @@
       type(MQC_Variable)::fullMoleculeSao,fullMoleculeFaoAlpha
       type(MQC_Variable)::neAlphaFragment,neBetaFragment,  &
         fragmentMatrixTemp,fragmentSaoZero,fragmentFaoAlphaZero
-      type(MQC_Variable)::fragmentMatrixTemp,fragmentSaoZero,fragmentFaoAlphaZero
 !
 !     Format statements
 !
