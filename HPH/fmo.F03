@@ -156,8 +156,6 @@
       endDo
 
       write(*,*)
-      write(*,*)
-      write(*,*)' Hrant - block matrix work:'
       do i = 1,nBasisFull
         iFrag = INT(MQC_Variable_get_MQC(bfFull2Fragment,[i,2]))
         if(iFrag.eq.iFragment) then

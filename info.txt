@@ -1,0 +1,6 @@
+3/9/2020 1500
+
+Current bug has tpo do with reading symmetric matrix from a matrix file into an mqc var.
+
+The last command tried for testing is:
+   ./IPA_001.exe water.mat

@@ -16,7 +16,7 @@ RunF         = pgfortran -i8 -r8 -Mallocatable=03
 #
 # The 'all' rule.
 #
-all: fmo.exe
+all: fmo_sam.exe
 
 #
 # Generic rules for building module (*.mod) and object (*.o) files.
