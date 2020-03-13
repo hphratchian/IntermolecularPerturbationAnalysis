@@ -457,6 +457,7 @@
 !       Load and save all need matricies/vectors (F,S,D,C,H,E)
         Call Mat%getarray('alpha fock matrix', &
         mqcVarOut=F)
+        Call mqc_algebra2_setdebug(.true.)
         Call mqc_gaussian_setdebug(.true.)
         Call Mat%getarray('overlap',mqcVarOut=S)
         return

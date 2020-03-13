@@ -4,3 +4,10 @@ Current bug has tpo do with reading symmetric matrix from a matrix file into an 
 
 The last command tried for testing is:
    ./IPA_001.exe water.mat
+
+
+The files in the repo are:
+
+IPA_0001 --> Old/non-working version of the code 
+IPA_0002 --> CURRENT, being edited version of the code.
+
